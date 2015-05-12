@@ -1,2 +1,4 @@
 Cucumber
 Carrots
+Potatoes
+Lettuce
